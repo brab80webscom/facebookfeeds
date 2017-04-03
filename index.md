@@ -1,14 +1,7 @@
-# Facebook Feeds
+#### Comment accéder au compte Facebook  
+#### de "Brabançonne-Contact"
 
-----
-
-&nbsp;
-
-> ou **Comment accéder au compte Facebook de "Brabançonne-Contact" sans avoir de compte Facebook**
-
-&nbsp;
-
----
+> **sans avoir de compte Facebook**
 
 x
 
