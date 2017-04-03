@@ -1,5 +1,6 @@
 # facebookfeeds
-Accès au compte Facebook de "Brabançonne-Contact" sans compte Facebook
 
-Lien : https://brab80webscom.github.io/facebookfeeds/
+Mon accès aux contenus de "Brabançonne-Contact" même sans compte Facebook.
+
+Pour en savoir plus : https://brab80webscom.github.io/facebookfeeds/
 
