@@ -7,7 +7,8 @@
 
 ### Tous les partages à l'occasion de "*Drinks*"
 
-![](https://brab80webscom.github.io/facebookfeeds/Drink_20170330/PDO_small.png) [**30.03.2017**](https://brab80webscom.github.io/facebookfeeds/Drink_20170330/20170330.html)
+* [**Qu'est-ce qu'un PDO ?**](https://brab80webscom.github.io/facebookfeeds/Drink_20170330/PDO_definition.html) ( `Portail Documentaire des Occupants` )
+* ![](https://brab80webscom.github.io/facebookfeeds/Drink_20170330/PDO_small.png) [**30.03.2017**](https://brab80webscom.github.io/facebookfeeds/Drink_20170330/20170330.html)
 
 
 
