@@ -22,7 +22,7 @@ Si le sujet est trop complexe que pour être résolu par le conseil de copropri�
 
 Enfin, si le sujet ne dépend, ni du conseil de copropriété, ni de l'Assemblée Générale, nous utiliserons le label
 
-![](vide.png) ![](ForUs.png) il s'agira surtout de sujets pour les occupants ( [**"*Brabançonne-Contact*"**](http://brabanconne-contact.site123.me/) )  
+![](vide.png) ![](ForUs.png) là où il s'agira de sujets pour les occupants ( [**"*Brabançonne-Contact*"**](http://brabanconne-contact.site123.me/) )  
 ![](plein.png) ![](ForUs.png) cette case sera cochée dans le PDO lorsque l'information aura été diffusée
 
 <b><font size="5" color="#8A0808">Votre <img src="PDO_small.png"> 2017-03</font></b>
