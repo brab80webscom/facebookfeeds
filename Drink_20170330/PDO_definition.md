@@ -27,11 +27,9 @@ Enfin, si le sujet ne dépend, ni du conseil de copropriété, ni de l'Assemblé
 
 ---
 
-<div align="right">
+![](pages.png)
 
-![](pages.png) Découvrez à présent le <img src="PDO_small.png"> du [**30.03.2017**](https://brab80webscom.github.io/facebookfeeds/Drink_20170330/20170330.html)
-
-</div>
+Découvrez à présent le <img src="PDO_small.png"> du [**30.03.2017**](https://brab80webscom.github.io/facebookfeeds/Drink_20170330/20170330.html)
 
 
 
