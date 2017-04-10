@@ -8,6 +8,7 @@
 * [**21.12.2016**](20161221.md) : retour sur tous les *posts* du [Blog de la Brabançonne](http://brab80.webs.com/) en 2016
 * [**10.01.2017**](20170110.md) : un outil pour scanner vos documents avec votre *smartphone*
 * [**11.01.2017**](20170111.md) : des charges en forte baisse depuis le choix d'un autre syndic
+* [**30.03.2017**](20170330.md) : c'est le printemps ! Du coup, la Brabançonne reverdit...
 
 
 ### Tous les partages à l'occasion de "*Drinks*"
