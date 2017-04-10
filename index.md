@@ -6,6 +6,8 @@
 * [**17.12.2016**](20161217.md) : il y a six ans, "*Brabançonne-Contact*" annonçait ce que la nouvelle loi allait changer
 * [**19.12.2016**](20161219.md) : cette fois, c'est fait : votre "*Brabançonne-Contact*" est de retour !
 * [**21.12.2016**](20161221.md) : retour sur tous les *posts* du [Blog de la Brabançonne](http://brab80.webs.com/) en 2016
+* [**10.01.2017**](20170110.md) : un outil pour scanner vos documents avec votre *smartphone*
+* [**11.01.2017**](20170111.md) : des charges en forte baisse depuis le choix d'un autre syndic
 
 
 ### Tous les partages à l'occasion de "*Drinks*"
@@ -14,6 +16,7 @@
 
 * [**Qu'est-ce qu'un PDO ?**](https://brab80webscom.github.io/facebookfeeds/Drink_20170330/PDO_definition.html) ( `Portail Documentaire des Occupants` )
 * Le PDO du [**30.03.2017**](https://brab80webscom.github.io/facebookfeeds/Drink_20170330/20170330.html)
+* Le PDO du [**27.04.2017**](https://brab80webscom.github.io/facebookfeeds/Drink_20170427/20170427.html)
 
 
 
