@@ -10,6 +10,12 @@
 * [**11.01.2017**](20170111.md) : des charges en forte baisse depuis le choix d'un autre syndic
 * [**29.01.2017**](20170129.md) : moderniser les ascenseurs ? Quand ? Pourquoi ? Comment ?
 * [**30.03.2017**](20170330.md) : c'est le printemps ! Du coup, la Brabançonne reverdit...
+* [**19.04.2017**](20170419.md) : quand le lapin de Pâques repeint le Blog de la Brabançonne
+
+### Tous les gazouillis ("*tweets*")
+
+* [**19.04.2017**](https://twitter.com/brab80webscom/status/854583198214479873)
+
 
 ### Tous les partages à l'occasion de "*Drinks*"
 
