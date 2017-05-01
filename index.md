@@ -25,6 +25,7 @@
 * [**Qu'est-ce qu'un PDO ?**](https://brab80webscom.github.io/facebookfeeds/Drink_20170330/PDO_definition.html) ( `Portail Documentaire des Occupants` )
 * Le PDO du [**30.03.2017**](https://brab80webscom.github.io/facebookfeeds/Drink_20170330/20170330.html)
 * Le PDO du [**27.04.2017**](https://brab80webscom.github.io/facebookfeeds/Drink_20170427/20170427.html) ( annonces [*Twitter*](https://twitter.com/brab80webscom/status/856426223131656194) et *Facebook* le 24.04.2017 )
+* Le PDO du [**18.05.2017**](https://brab80webscom.github.io/facebookfeeds/Drink_20170518/20170518.html)
 
 
 
