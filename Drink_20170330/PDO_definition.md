@@ -25,11 +25,3 @@ Enfin, si le sujet ne dépend, ni du conseil de copropriété, ni de l'Assemblé
 ![](vide.png) ![](ForUs.png) là où il s'agira de sujets pour les occupants ( [**"*Brabançonne-Contact*"**](http://brabanconne-contact.site123.me/) )  
 ![](plein.png) ![](ForUs.png) cette case sera cochée dans le PDO lorsque l'information aura été diffusée
 
----
-
-![](pages.png)
-
-Découvrez à présent le <img src="PDO_small.png"> du [**30.03.2017**](https://brab80webscom.github.io/facebookfeeds/Drink_20170330/20170330.html)
-
-
-
