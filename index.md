@@ -11,6 +11,7 @@
 * [**29.01.2017**](20170129.md) : moderniser les ascenseurs ? Quand ? Pourquoi ? Comment ?
 * [**30.03.2017**](20170330.md) : c'est le printemps ! Du coup, la Brabançonne reverdit...
 * [**19.04.2017**](20170419.md) : quand le lapin de Pâques repeint le Blog de la Brabançonne
+* [**15.06.2017**](20170615.md) : gérez électroniquement vos démarches auprès de la Commune
 
 ### Tous les gazouillis ("*tweets*")
 
